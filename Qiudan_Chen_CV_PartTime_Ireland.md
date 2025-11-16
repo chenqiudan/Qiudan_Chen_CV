@@ -54,5 +54,5 @@ Delivered automation solutions across both cloud platforms and enterprise operat
 ### **Education**
 
 **B.Sc. Applied Statistics**  
-Guangdong University of Technology, China
+Guangdong University of Technology, China  
 2018 – 2022
