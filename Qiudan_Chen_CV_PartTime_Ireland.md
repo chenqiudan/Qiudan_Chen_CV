@@ -2,7 +2,7 @@
 
 **Phone:** +353 874070946  
 **Email:** chenqiudan2@outlook.com  
-**Address:** Limerick, Ireland
+**Address:** Limerick, Ireland  
 **Nationality:** China
 
 ---
@@ -51,5 +51,6 @@ Reliable and hardworking part-time worker with experience in pharmacy retail ope
 - Available **weekday mornings and all day on weekends**.
 - Comfortable in fast-paced environments such as retail, cafés, supermarkets, and pharmacies.
 - Strong work ethic and willingness to learn new tasks quickly.
+
 
 
