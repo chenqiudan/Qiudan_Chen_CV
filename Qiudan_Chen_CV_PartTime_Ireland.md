@@ -5,6 +5,8 @@
 **Address:** 6 Davin Gardens, Caherdavin, Limerick, V94 Y92V
 **Nationality:** China
 
+---
+
 #### **Profile Summary**
 
 Reliable and hardworking part-time worker with experience in pharmacy retail operations, including cashiering, shelf organisation, and product packaging. Currently studying in an English language school and seeking part-time opportunities to gain local work experience. Known for strong attention to detail, fast learning, and excellent customer service.
@@ -41,3 +43,4 @@ Reliable and hardworking part-time worker with experience in pharmacy retail ope
 - Available **weekday mornings and all day on weekends**.
 - Comfortable in fast-paced environments such as retail, cafés, supermarkets, and pharmacies.
 - Strong work ethic and willingness to learn new tasks quickly.
+
