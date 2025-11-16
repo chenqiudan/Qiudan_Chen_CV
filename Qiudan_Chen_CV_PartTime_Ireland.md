@@ -34,7 +34,7 @@ Delivered automation solutions across both cloud platforms and enterprise operat
 - Built and maintained **API automation test suites** using Python + Postman/Jmeter.
 - Participated in requirement reviews, clarified user stories, and aligned test strategies across cloud service teams.
 - Conducted test planning, regression execution, defect reporting, and risk assessment for multiple product releases.
-- Used logs, API traces, and data analysis to identify root causes of issues and ensure high-quality releases.
+- Used logs, API traces, and data analysis to identify root causes of issues and ensure high-quality releases.  
   **Key Achievements:**
 - Improved API regression coverage and reduced manual workload with automated test pipelines.
 - Ensured release quality for multiple cloud services by managing end-to-end testing activities.
@@ -44,7 +44,7 @@ Delivered automation solutions across both cloud platforms and enterprise operat
 
 - Translated business requirements into automated workflow designs and RPA solutions.
 - Developed, tested, and deployed **end-to-end automation** to eliminate repetitive manual processes.
-- Delivered user training and documentation to ensure stable adoption.
+- Delivered user training and documentation to ensure stable adoption.  
   **Key Achievements:**
 - Successfully delivered multiple automated workflows, improving operational efficiency and reducing human error.
 - Strengthened skills in requirement analysis, system logic, and solution thinking—highly transferable to test automation.
