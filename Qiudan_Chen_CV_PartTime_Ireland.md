@@ -17,10 +17,10 @@ Delivered automation solutions across both cloud platforms and enterprise operat
 
 ### **Core Technical Skills**
 
-**Automation & Testing:** API Automation, Regression Testing, Functional Testing, Test Design, Test Execution
-**Tools & Languages:** Python, Postman / Newman, SQL, Git, JSON, YAML
-**Automation Platforms:** RPA (UiPath / Low-code automation), Scripting Automation
-**Cloud & DevOps:** Huawei Cloud (OBS, ECS, API Gateway), RESTful APIs, CI/CD (Jenkins / GitLab)
+**Automation & Testing:** API Automation, Regression Testing, Functional Testing, Test Design, Test Execution  
+**Tools & Languages:** Python, Postman / Newman, SQL, Git, JSON, YAML  
+**Automation Platforms:** RPA (UiPath / Low-code automation), Scripting Automation  
+**Cloud & DevOps:** Huawei Cloud (OBS, ECS, API Gateway), RESTful APIs, CI/CD (Jenkins / GitLab)  
 **Soft Skills:** Requirement Analysis, Cross-team Collaboration, Risk Tracking, Documentation, Stakeholder Communication
 
 ---
